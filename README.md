@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, django, web design... etc.
 - 🌱 I’m currently learning the base of python, django(just started).
 - 💞️ I have learned the JAVA, C++, Python, html, MySQL, SAP ABAP... (All of the above only learn a part)
-- 📫 How to reach me, please mail to this address amm1012810128@gmail.com.
+- 📫 How to reach me, please mail to this address 410535005@gms.ndhu.edu.tw.
 
 <!---
 LightenDawn/LightenDawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
